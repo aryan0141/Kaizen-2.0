@@ -1,4 +1,4 @@
-### Starter Project for the Material UI playlist
+### Kaizen 2.0
 
 Download the code & run **npm install** to install dependencies before starting the app.
 
