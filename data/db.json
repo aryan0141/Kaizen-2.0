@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "School",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "Market",
+      "id": 2
+    },
+    {
+      "title": "Wake up at 5am",
+      "desc": "Prepare for the class test today at school",
+      "category": "School",
+      "id": 3
+    },
+    {
+      "title": "Fishing",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis distinctio libero perferendis, modi, facere commodi deleniti accusantium nemo repudiandae laboriosam quisquam nam? Autem maiores voluptate in nihil molestias ullam, incidunt unde deserunt.",
+      "category": "Relatives",
+      "id": 4
+    },
+    {
+      "title": "Tetsing",
+      "desc": "Traditionally, a text is understood to be a piece of written or spoken material in its primary form (as opposed to a paraphrase or summary). A text is any stretch of language that can be understood in context. It may be as simple as 1-2 words (such as a stop sign) or as complex as a novel. Any sequence of sentences that belong together can be considered a text.\n\nText refers to content rather than form; for example, if you were talking about the text of \"Don Quixote,\" you would be referring to the words in the book, not the physical book itself. Information related to a text, and often printed alongside it—such as an author's name, the publisher, the date of publication, etc.—is known as paratext.\n.",
+      "category": "Relatives",
+      "id": 5
+    },
+    {
+      "title": "Honey Singh",
+      "desc": "Traditionally, a text is understood to be a piece of written or spoken material in its primary form (as opposed to a paraphrase or summary). A text is any stretch of language that can be understood in context. It may be as simple as 1-2 words (such as a stop sign) or as complex as a novel. Any sequence of sentences that belong together can be considered a text.\n\nText refers to content rather than form; for example, if you were talking about the text of \"Don Quixote,\" you would be referring to the words in the book, not the physical book itself. Information related to a text, and often printed alongside it—such as an author's name, the publisher, the date of publication, etc.—is known as paratext.\n\nThe idea of what constitutes a text has evolved over time. In recent years, the dynamics of technology—especially social media—have expanded the notion of the text to include symbols such as emoticons and emojis. A sociologist studying teenage communication, for example, might refer to texts that combine traditional language and graphic symbols.",
+      "category": "School",
+      "id": 6
+    }
+  ]
+}
