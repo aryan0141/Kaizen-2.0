@@ -18,13 +18,13 @@ const useStyles = makeStyles({
   },
   avatarImg: {
     backgroundColor: (note) => {
-      if (note.category == "School") {
+      if (note.category == "Note") {
         return yellow[700];
       }
-      if (note.category == "Market") {
+      if (note.category == "Task") {
         return green[500];
       }
-      if (note.category == "Relatives") {
+      if (note.category == "Meeting") {
         return pink[500];
       }
       return blue[500];
