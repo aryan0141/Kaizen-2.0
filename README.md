@@ -1,5 +1,5 @@
 ### Kaizen 2.0
 
-Download the code & run **npm install** to install dependencies before starting the app.
+Todo List Made using ReactJS and Material UI
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+Deployed Live at - https://kaizen2.netlify.app/
