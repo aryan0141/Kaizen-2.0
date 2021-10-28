@@ -26,8 +26,8 @@ const useStyles = makeStyles({
     textDecoration: "underline",
   },
   field: {
-    marginBottom: 20,
-    marginLeft: 20,
+    marginBottom: 21,
+    marginLeft: 21,
   },
 });
 
@@ -170,7 +170,7 @@ export default function Create() {
           // disabled
           color="secondary"
         >
-          Submit
+          Add Node
         </Button>
         <Button
           className={classes.field}
@@ -180,7 +180,17 @@ export default function Create() {
           // disabled
           color="secondary"
         >
-          Reset
+          Reset Default
+        </Button>
+          <Button
+          className={classes.field}
+          type="button"
+          onClick={clearText}
+          variant="contained"
+          // disabled
+          color="secondary"
+        >
+          New Btn Added
         </Button>
       </form>
     </Container>
