@@ -182,16 +182,6 @@ export default function Create() {
         >
           Reset Default
         </Button>
-          <Button
-          className={classes.field}
-          type="button"
-          onClick={clearText}
-          variant="contained"
-          // disabled
-          color="secondary"
-        >
-          New Btn Added
-        </Button>
       </form>
     </Container>
   );
