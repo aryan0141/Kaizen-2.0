@@ -16,40 +16,40 @@ const useStyles = makeStyles({
 
 const classLinks = [
   {
-    name: "Electrical Machines - C",
-    link: "https://classroom.google.com/u/0/c/Mzc2MTE1MTY5OTM4",
+    name: "Data Communication Networks - A",
+    link: "https://classroom.google.com/u/0/c/NDUwNTI3NjQwODQ0",
   },
   {
-    name: "Communication Systems - B",
-    link: "https://classroom.google.com/u/0/c/MzcyMjM2NjczMzM3",
+    name: "Power Engineering - B",
+    link: "https://classroom.google.com/u/0/c/NDUwNjQ2OTg4MTQ4",
   },
   {
-    name: "Control Systems - A",
-    link: "https://classroom.google.com/u/0/c/Mzc0NDI1OTM1MTQ2",
+    name: "Digital Signal Processing - C",
+    link: "https://classroom.google.com/u/0/c/NDUwMzQ3MDIwNjk3",
   },
   {
-    name: "Analog Circuits - D",
-    link: "https://classroom.google.com/u/0/c/MzE5MTcxNjA2NjEx",
+    name: "Embedded Systems - D",
+    link: "https://classroom.google.com/u/0/c/NDUwMzk3NzQ5ODY3",
   },
   {
-    name: "Analog Circuits Lab",
-    link: "https://classroom.google.com/u/0/c/MzE5MTcxNjA2NjEx",
+    name: "Digital Systems Lab - M7",
+    link: "https://classroom.google.com/u/0/c/NDUwMzk3OTI2OTI4",
   },
   {
-    name: "Computer Architecture - E",
-    link: "https://classroom.google.com/u/0/c/Mzc0Mzc2MTYzMzM5",
+    name: "Communication Systems Lab - M2",
+    link: "#",
   },
   {
-    name: "Youth Studies - K",
-    link: "https://classroom.google.com/u/0/c/MzcyMzI4NzEzNjQ1",
+    name: "Electrical Machines Lab - M3",
+    link: "https://classroom.google.com/u/0/c/NDUwNTUwOTYzODkx",
   },
   {
-    name: "Professional Ethics Main",
-    link: "https://classroom.google.com/u/0/c/MzcyMzM0MTc2MTg3",
+    name: "SDE - Q",
+    link: "https://classroom.google.com/u/0/c/NDQzOTAwNTUwNjI5",
   },
   {
-    name: "Professional Ethics - 2",
-    link: "https://classroom.google.com/u/0/c/MzgxMDU2NDA4NDY1",
+    name: "Professional Ethics - 2 - NG1",
+    link: "#",
   },
 ];
 
